@@ -1,11 +1,3 @@
-# G4AB2_BED_GradedProject3
-Use this repository to collaborate on coding assignment given by great learning.
-
-Project Members:
-1. Mohsin
-2. Akshda
-3. Catherine
-4. Jamuna
 
 Task:
 Problem Statement : Ticket Tracker Application
